@@ -1,0 +1,97 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "Member.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Member.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Member.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Member.Core/1.0.0": {
+      "type": "project",
+      "path": "../Member.Core/Member.Core.csproj",
+      "msbuildProject": "../Member.Core/Member.Core.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "Member.Core >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\H4\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\H4\\OneDrive\\Desktop\\CleanArchitectureApi\\Member.Application\\Member.Application.csproj",
+      "projectName": "Member.Application",
+      "projectPath": "C:\\Users\\H4\\OneDrive\\Desktop\\CleanArchitectureApi\\Member.Application\\Member.Application.csproj",
+      "packagesPath": "C:\\Users\\H4\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\H4\\OneDrive\\Desktop\\CleanArchitectureApi\\Member.Application\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\H4\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "C:\\Users\\H4\\OneDrive\\Desktop\\CleanArchitectureApi\\Member.Core\\Member.Core.csproj": {
+              "projectPath": "C:\\Users\\H4\\OneDrive\\Desktop\\CleanArchitectureApi\\Member.Core\\Member.Core.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\H4\OneDrive\Desktop\CleanArchitectureApi\Member.Application\bin\Debug\net8.0\Member.Application.deps.json
+C:\Users\H4\OneDrive\Desktop\CleanArchitectureApi\Member.Application\bin\Debug\net8.0\Member.Application.dll
+C:\Users\H4\OneDrive\Desktop\CleanArchitectureApi\Member.Application\bin\Debug\net8.0\Member.Application.pdb
+C:\Users\H4\OneDrive\Desktop\CleanArchitectureApi\Member.Application\bin\Debug\net8.0\Member.Core.dll
+C:\Users\H4\OneDrive\Desktop\CleanArchitectureApi\Member.Application\bin\Debug\net8.0\Member.Core.pdb
+C:\Users\H4\OneDrive\Desktop\CleanArchitectureApi\Member.Application\obj\Debug\net8.0\Member.Application.csproj.AssemblyReference.cache
+C:\Users\H4\OneDrive\Desktop\CleanArchitectureApi\Member.Application\obj\Debug\net8.0\Member.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\H4\OneDrive\Desktop\CleanArchitectureApi\Member.Application\obj\Debug\net8.0\Member.Application.AssemblyInfoInputs.cache
+C:\Users\H4\OneDrive\Desktop\CleanArchitectureApi\Member.Application\obj\Debug\net8.0\Member.Application.AssemblyInfo.cs
+C:\Users\H4\OneDrive\Desktop\CleanArchitectureApi\Member.Application\obj\Debug\net8.0\Member.Application.csproj.CoreCompileInputs.cache
+C:\Users\H4\OneDrive\Desktop\CleanArchitectureApi\Member.Application\obj\Debug\net8.0\Member.A.7E595757.Up2Date
+C:\Users\H4\OneDrive\Desktop\CleanArchitectureApi\Member.Application\obj\Debug\net8.0\Member.Application.dll
+C:\Users\H4\OneDrive\Desktop\CleanArchitectureApi\Member.Application\obj\Debug\net8.0\refint\Member.Application.dll
+C:\Users\H4\OneDrive\Desktop\CleanArchitectureApi\Member.Application\obj\Debug\net8.0\Member.Application.pdb
+C:\Users\H4\OneDrive\Desktop\CleanArchitectureApi\Member.Application\obj\Debug\net8.0\ref\Member.Application.dll

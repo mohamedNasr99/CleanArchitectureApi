@@ -1,0 +1,11 @@
+C:\Users\H4\OneDrive\Desktop\CleanArchitectureApi\Member.Core\bin\Debug\net8.0\Member.Core.deps.json
+C:\Users\H4\OneDrive\Desktop\CleanArchitectureApi\Member.Core\bin\Debug\net8.0\Member.Core.dll
+C:\Users\H4\OneDrive\Desktop\CleanArchitectureApi\Member.Core\bin\Debug\net8.0\Member.Core.pdb
+C:\Users\H4\OneDrive\Desktop\CleanArchitectureApi\Member.Core\obj\Debug\net8.0\Member.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\H4\OneDrive\Desktop\CleanArchitectureApi\Member.Core\obj\Debug\net8.0\Member.Core.AssemblyInfoInputs.cache
+C:\Users\H4\OneDrive\Desktop\CleanArchitectureApi\Member.Core\obj\Debug\net8.0\Member.Core.AssemblyInfo.cs
+C:\Users\H4\OneDrive\Desktop\CleanArchitectureApi\Member.Core\obj\Debug\net8.0\Member.Core.csproj.CoreCompileInputs.cache
+C:\Users\H4\OneDrive\Desktop\CleanArchitectureApi\Member.Core\obj\Debug\net8.0\Member.Core.dll
+C:\Users\H4\OneDrive\Desktop\CleanArchitectureApi\Member.Core\obj\Debug\net8.0\refint\Member.Core.dll
+C:\Users\H4\OneDrive\Desktop\CleanArchitectureApi\Member.Core\obj\Debug\net8.0\Member.Core.pdb
+C:\Users\H4\OneDrive\Desktop\CleanArchitectureApi\Member.Core\obj\Debug\net8.0\ref\Member.Core.dll
